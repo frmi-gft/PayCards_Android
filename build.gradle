@@ -33,6 +33,7 @@ ext {
     compileSdkVersion = 28
 
     // App dependencies
+    androidXLibVersion = '1.1.0'
     supportLibVersion = '27.1.1'
     yearclassVersion = "2.1.0"
 
